@@ -1,8 +1,7 @@
-# Levis_PHPFramework
-PHP軽量フレームワークです。
+![ロゴ](./LevisPHP_Logo.jpg)
 
 ## 概要
-Apache・PHP・MySqlで動作する最低限の機能を備えたフレームワークです。
+Apache・PHP・MySqlで動作する最低限の機能を備えた軽量フレームワークです。
 
 テンプレートエンジンに[Twig](https://twig.symfony.com)
 
